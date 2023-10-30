@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.practice</groupId>
-	<artifactId>spring-framework-02</artifactId>
+	<artifactId>spring-framework-01</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-framework</name>
 	<description>Spring Boot Practice</description>
